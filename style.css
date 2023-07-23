@@ -82,6 +82,10 @@ section#img02 {
     background-image: url(imagens/background002.jpg);
 }
 
+section > p {
+    padding-bottom: 2em;
+}
+
 section.imagem > p {
     display: inline-block;
     /*transfomar em uma caixa que se adapta ao conteúdo*/
